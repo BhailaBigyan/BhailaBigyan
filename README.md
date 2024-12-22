@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BhailaBigyan
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Visit my porfolio bhailabigyan.com.np to reach me out...
 
 <!---
 BhailaBigyan/BhailaBigyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
